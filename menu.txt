@@ -1,4 +1,7 @@
 The name of the restaurant: "Group 4"
       Menu: "Fish"
       Drinks: "Tropic Lemonade, Mix Fruit Lemonade, Red berries Lemonade, Basil apple Lemonade"
-
+      Appetizers: "Cheese, Jam, Honey, Butter"
+      First Dish: "Halibut, Salmon, Sea Bass, Cod, Smoked Trout, Tuna"
+      Soups: "Tomato Soup, Pumpkin Soup, Mushroom Soup"
+	Fish-Menu: "Fish soup, Shark, Calamari, Salmon"
